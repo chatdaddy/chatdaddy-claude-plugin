@@ -1,8 +1,8 @@
 {
-  "name": "chatdaddy-whatsapp",
-  "displayName": "ChatDaddy WhatsApp",
+  "name": "chatdaddy",
+  "displayName": "ChatDaddy",
   "version": "1.0.0",
-  "description": "Run your WhatsApp from a conversation: send and search messages, manage contacts and tags, fire bots, set keyword replies and after-hours replies, run broadcasts, and check channel health — all in your own ChatDaddy team.",
+  "description": "Run your ChatDaddy inbox from a conversation — WhatsApp, Instagram, Messenger, SMS and email. Send and search messages, manage contacts and tags, fire bots, set keyword replies and after-hours replies, run broadcasts, handle CRM tickets, and check why a channel stopped sending.",
   "author": {
     "name": "ChatDaddy",
     "url": "https://chatdaddy.tech"

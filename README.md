@@ -1,10 +1,15 @@
-# ChatDaddy WhatsApp
+# ChatDaddy
 
-Run your WhatsApp from a conversation with Claude. Ask in plain English and Claude
-does the work in your own ChatDaddy team: sends and searches messages, finds and
+Run your ChatDaddy inbox from a conversation with Claude. Ask in plain English
+and Claude does the work in your own team: sends and searches messages, finds and
 tags contacts, fires bots, sets keyword replies and after-hours replies, runs
 broadcasts, manages CRM tickets and webhooks, and checks why a channel stopped
 sending.
+
+It works across the channels your team has connected — WhatsApp, WhatsApp
+Business API, Instagram, Messenger, SMS, email and web chat. Messaging is
+deepest on WhatsApp; contacts, tags, tickets, bots and keyword replies apply to
+every channel.
 
 ## Set it up
 
