@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "chatdaddy": {
+      "command": "npx",
+      "args": ["-y", "@chatdaddytech/mcp-server@1.0.0"],
+      "env": {
+        "CHATDADDY_API_KEY": "${user_config.api_key}"
+      }
+    }
+  }
+}

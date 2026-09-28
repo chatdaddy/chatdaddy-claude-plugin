@@ -1,0 +1,21 @@
+{
+  "name": "chatdaddy-whatsapp",
+  "displayName": "ChatDaddy WhatsApp",
+  "version": "1.0.0",
+  "description": "Run your WhatsApp from a conversation: send and search messages, manage contacts and tags, fire bots, set keyword replies and after-hours replies, run broadcasts, and check channel health — all in your own ChatDaddy team.",
+  "author": {
+    "name": "ChatDaddy",
+    "url": "https://chatdaddy.tech"
+  },
+  "license": "MIT",
+  "homepage": "https://chatdaddymcp.tech",
+  "userConfig": {
+    "api_key": {
+      "type": "string",
+      "title": "ChatDaddy API token",
+      "description": "Create one in ChatDaddy → Developer → API Tokens. It starts with apit_ and decides which team Claude works in.",
+      "required": true,
+      "sensitive": true
+    }
+  }
+}
