@@ -39,6 +39,11 @@ This plugin starts the published npm package
 pinned to version 1.0.0, on your own computer. That server talks to the ChatDaddy
 API at `api.chatdaddy.tech` using your token, and to nothing else.
 
+The package has **no runtime dependencies**: everything it needs is bundled into
+the published files, so installing it resolves nothing at install time and pulls
+in no third-party code. `npm install @chatdaddytech/mcp-server` adds exactly one
+package.
+
 The plugin itself stores no data. What Claude reads to answer a question — a
 chat, a contact, a campaign result — is sent to Claude in that conversation, the
 same as any other tool you give it. Your token stays on your machine and is sent
