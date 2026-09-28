@@ -1,0 +1,16 @@
+{
+  "name": "chatdaddy",
+  "description": "ChatDaddy's own plugins for Claude Code.",
+  "owner": {
+    "name": "ChatDaddy",
+    "url": "https://chatdaddy.tech"
+  },
+  "plugins": [
+    {
+      "name": "chatdaddy",
+      "source": "./",
+      "category": "messaging",
+      "tags": ["whatsapp", "chatdaddy", "messaging", "crm", "automation"]
+    }
+  ]
+}
